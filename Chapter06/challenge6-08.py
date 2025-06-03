@@ -1,0 +1,3 @@
+print("""aaaaaa
+      eeeee
+      gggg""")
